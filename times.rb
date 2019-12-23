@@ -1,3 +1,3 @@
 def using_times
-puts "Wingardium Leviosa" *7	#your code here
+ times do puts "Wingardium Leviosa" #your code here
 end
